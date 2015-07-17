@@ -1,3 +1,4 @@
 # gSchool-prework
 First steps to gSchool
-README
+Stephen Florian @coloradude
+
